@@ -1,0 +1,5 @@
+AppData/ 
+*.log 
+node_modules/ 
+__pycache__/ 
+.env 
